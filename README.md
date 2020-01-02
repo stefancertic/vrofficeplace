@@ -5,7 +5,7 @@ A collection of scripts in various languages using VROfficePlace Face Recognitio
 
 Example code executes conversion of two images into base64 and send both towards API endpoint in order to check if it's the same person.
 
-Responses:
+Responses (Decimal, Trnaslated)
 
 00 -> Invalid Credentials 
 
