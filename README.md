@@ -18,3 +18,7 @@ Responses (Decimal, Trnaslated)
 04 -> No Face in Image 1
 
 05 -> Successful Match
+
+Note that you will need to create a free account at https://www.vrofficeplace.com/admin/register.php that comes with test credits so you may test the system in real-world scenario.
+
+For more advanced products such as PulsLogic, please visit https://www.vrofficeplace.com/pulslogic/
