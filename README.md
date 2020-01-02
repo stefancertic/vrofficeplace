@@ -8,8 +8,13 @@ Example code executes conversion of two images into base64 and send both towards
 Responses:
 
 00 -> Invalid Credentials 
+
 01 -> Insufficient Credits
+
 02 -> No Match
+
 03 -> No Face in Image 2
+
 04 -> No Face in Image 1
+
 05 -> Successful Match
